@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CustomAdapter_FriendListSample</string>
+    <string name="şuan">şuan</string>
+
+    <string-array name="isimler">
+        <item>Melih</item>
+        <item>Sadık</item>
+        <item>Cemil</item>
+        <item>Serdar</item>
+        <item>Furkan</item>
+        <item>Melih</item>
+        <item>Sadık</item>
+        <item>Cemil</item>
+        <item>Serdar</item>
+        <item>Furkan</item>
+        <item>Melih</item>
+        <item>Sadık</item>
+        <item>Cemil</item>
+        <item>Serdar</item>
+        <item>Furkan</item>
+        <item>Melih</item>
+        <item>Sadık</item>
+        <item>Cemil</item>
+        <item>Serdar</item>
+        <item>Furkan</item>
+    </string-array>
+
+    <string-array name="durum">
+        <item>Müsait</item>
+        <item>Müsait</item>
+        <item>Meşgul</item>
+        <item>Uykuda</item>
+        <item>Müsait</item>
+        <item>Müsait</item>
+        <item>Müsait</item>
+        <item>Meşgul</item>
+        <item>Uykuda</item>
+        <item>Müsait</item>
+        <item>Müsait</item>
+        <item>Müsait</item>
+        <item>Meşgul</item>
+        <item>Uykuda</item>
+        <item>Müsait</item>
+        <item>Müsait</item>
+        <item>Müsait</item>
+        <item>Meşgul</item>
+        <item>Uykuda</item>
+        <item>Müsait</item>
+    </string-array>
+</resources>
